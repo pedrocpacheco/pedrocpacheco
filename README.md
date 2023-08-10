@@ -13,8 +13,7 @@
   </em>
 </p>
 
-- 🌱 Studying Next.js, NestJS and Jest.
-- 🚀 Student at Devclub, Rocketseat, Full Cycle and Manguinho
+- 🌱 Studying NodeJS, React Native & Spring
 - 📫 My email: cpedropacheco@hotmail.com
 
 ### ⚡ Technologies:
