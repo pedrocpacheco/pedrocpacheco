@@ -34,11 +34,10 @@
 
 <div>
   <div style="float: left; width: 50%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby" alt="GitHub Stats">
+    <img src="https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby" alt="GitHub Streak">
   </div>
   <div style="float: right; width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact" alt="Top Languages">
-    <img src="https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby" alt="GitHub Streak">
   </div>
 </div>
 
