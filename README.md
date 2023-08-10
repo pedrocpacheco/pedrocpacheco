@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello, I'm Pedro Pacheco  👨🏻‍🦱
+  Hello, I'm Pedro Pacheco  👋🏻👨🏻‍🦱
 </h1>
 <p align='center'>
   Software Developer & Student at FIAP
