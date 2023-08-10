@@ -2,7 +2,7 @@
   Hello, I'm Pedro Pacheco 👨🏻‍🦱
 </h1>
 <p align='center'>
-  Software Deleloper student at FIAP
+  Software Developer student at FIAP
 </p>
 
 ### ❔ About Me:
@@ -17,8 +17,6 @@
 - 📫 My email: cpedropacheco@hotmail.com
 
 ### ⚡ Technologies:
-
-These are some of the technologies and tools I use:
 
 - Front-End
 
@@ -38,12 +36,7 @@ These are some of the technologies and tools I use:
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
 
-
-| My Streak                                                                                                                                                             |
-| ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) |
-
-💬 Want to get in touch?
+💬 Get in Contact:
 
 <div>
   <a href="https://www.linkedin.com/in/pedro-carvalho-pacheco" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
