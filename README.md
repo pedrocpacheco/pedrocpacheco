@@ -1,5 +1,5 @@
 <h1 align='center'>
-  Hello, I'm Pedro Pacheco
+  Hello, I'm Pedro Pacheco 👨🏻‍🦱
 </h1>
 <p align='center'>
   Software Deleloper student at FIAP
@@ -13,7 +13,7 @@
   </em>
 </p>
 
-- 🌱 Studying NodeJS, React Native & Spring
+- 🕶 Studying NodeJS, React Native & Spring
 - 📫 My email: cpedropacheco@hotmail.com
 
 ### ⚡ Technologies:
@@ -36,7 +36,7 @@ These are some of the technologies and tools I use:
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) |
+| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
 
 
 | My Streak                                                                                                                                                             |
