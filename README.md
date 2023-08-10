@@ -34,7 +34,7 @@
 
 | My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
 
 | My Streak                                                                                                                                                             |
 | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -47,4 +47,3 @@
   <a href="https://api.whatsapp.com/send/?phone=%2B5511996773408&text&app_absent=0" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/p.opacheco/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
-eu quero que o streak fique do lado das top languagens
