@@ -1,8 +1,8 @@
 <h1 align='center'>
-  Hello, I'm Pedro Pacheco 👨🏻‍🦱
+  Hello, I'm Pedro Pacheco  👨🏻‍🦱
 </h1>
 <p align='center'>
-  Software Developer student at FIAP
+  Software Developer & Student at FIAP
 </p>
 
 ### ❔ About Me:
@@ -20,15 +20,15 @@
 
 - Front-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,html,css,bootstrap)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap)](https://skillicons.dev)
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python)](https://skillicons.dev)
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
