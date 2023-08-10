@@ -26,15 +26,21 @@
 
 [![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
-- Tools and Plataforms
+- Tools and Platforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma,)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,figma)](https://skillicons.dev)
 
-### 📈 My Statistics
+### 📈 My Statistics:
 
-| My Statistics                                                                                                                                                            | Top Languages                                                                                                                                                                    |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![Umutambyi Gad's github stats](https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
+<div>
+  <div style="float: left; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pedrocpacheco&show_icons=true&hide_border=true&count_private=true&theme=great-gatsby" alt="GitHub Stats">
+  </div>
+  <div style="float: right; width: 50%;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact" alt="Top Languages">
+    <img src="https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby" alt="GitHub Streak">
+  </div>
+</div>
 
 💬 Get in Contact:
 
