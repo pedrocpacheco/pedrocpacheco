@@ -2,7 +2,7 @@
   I'm Pedro Pacheco
 </h1>
 <p align='center'>
-  I'm 19 years old  
+  I'm 19 years old \n  
   Bilingual Electronic Data Interchange Analyst at <a href="https://www.linkedin.com/company/sintelglobal" target="_blank">Sintel.SA</a>
 </p>
 
