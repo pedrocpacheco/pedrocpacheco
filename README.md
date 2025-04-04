@@ -1,34 +1,10 @@
 <h1 align='center'>
-  Hello, I'm Pedro Pacheco  👋🏻👨🏻‍🦱
+  I'm Pedro Pacheco
 </h1>
 <p align='center'>
-  Software Developer & Student at FIAP
+  I'm 19 years old 
+  Bilingual Electronic Data Interchange Analyst at [!Sintel.SA](https://www.linkedin.com/company/sintelglobal/posts/?feedView=all)]
 </p>
-
-### ❔ About Me:
-
-<p>
-  <em>
-    I'm 18 years old, from São Paulo and currently studying System Analysis and Developing at FIAP.
-  </em>
-</p>
-
-- 🕶 Studying NodeJS, React Native & Spring
-- 📫 My email: cpedropacheco@hotmail.com
-
-### ⚡ Technologies:
-
-- Front-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=js,ts,react,html,css,bootstrap)](https://skillicons.dev)
-
-- Back-End
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python)](https://skillicons.dev)
-
-- Tools and Plataforms
-
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
