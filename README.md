@@ -9,11 +9,15 @@
     Bilingual Electronic Data Interchange Analyst at <a href="https://www.linkedin.com/company/sintelglobal" target="_blank">Sintel.SA</a>
 </p>
 
+<!--
 ### 📈 My Statistics
 
 | My Streak                                                                                                                                                            | Top Languages                                                                                                                                                                    |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) | [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrocpacheco&langs_count=10&count_private=true&hide_border=true&theme=great-gatsby&layout=compact) |
+| [![GitHub Streak](https://streak-stats.demolab.com/?user=pedrocpacheco&theme=great-gatsby)](https://git.io/streak-stats) 
+-->
+
 
 💬 Get in Contact:
 
