@@ -1,13 +1,15 @@
-<h1 align='center'>
-  I'm Pedro Pacheco
+<h1 align="center">
+  Pedro Pacheco
 </h1>
-<p align='center'>
+
+<p align="center">
   I'm 19 years old  
 </p>
-<br />
-<p align='center'>
-    Bilingual Electronic Data Interchange Analyst at <a href="https://www.linkedin.com/company/sintelglobal" target="_blank">Sintel.SA</a>
+
+<p align="center">
+  Bilingual Electronic Data Interchange Analyst at <a href="https://www.linkedin.com/company/sintelglobal" target="_blank">Sintel.SA</a>
 </p>
+
 
 <!--
 ### 📈 My Statistics
