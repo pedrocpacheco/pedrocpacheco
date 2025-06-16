@@ -24,7 +24,7 @@
 
 - Back-End
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,c#)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=nodejs,express,java,spring,python,c#,.net)](https://skillicons.dev)
 
 - Tools and Plataforms
 
