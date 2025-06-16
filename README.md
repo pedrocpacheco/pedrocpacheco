@@ -28,7 +28,7 @@
 
 - Tools and Plataforms
 
-[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,sqlite,sqlserver,mongodb,mysql,postgres)](https://skillicons.dev)
+[![Minhas Habilidades](https://skillicons.dev/icons?i=git,postman,sqlite,mongodb,mysql,postgres)](https://skillicons.dev)
 
 ### 📈 My Statistics
 
