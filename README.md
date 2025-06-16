@@ -13,7 +13,7 @@
   </em>
 </p>
 
-- 🕶 Studying .NET, React Native & Spring
+- 🕶 Studying .NET, C#, Java & Spring
 - 📫 My email: opedrocpacheco@gmail.com
 
 ### ⚡ Technologies:
